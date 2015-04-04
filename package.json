@@ -1,0 +1,16 @@
+{
+  "name": "essentials-uuid-converter",
+  "version": "0.0.1",
+  "description": "Converts old Essentials userdata yml files to new UUID format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "justin@cubedhost.com",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^0.9.0",
+    "commander": "^2.7.1",
+    "js-yaml": "^3.2.7"
+  }
+}
